@@ -1,3 +1,3 @@
 <?php
 
-echo "Olá Everton Inhota, em que posso ajudar hoje?!";
+echo "Olá Everton Inhota, em que posso ajudar hoje?";
